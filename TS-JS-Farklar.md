@@ -1,0 +1,2 @@
+# TypeScript ve JavaScript Farkları
+
